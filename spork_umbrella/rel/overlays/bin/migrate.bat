@@ -1,0 +1,1 @@
+call "%~dp0\portfell" eval Portfell.Release.migrate
